@@ -1,0 +1,125 @@
+    1  apt install git
+    2  man pthread_create
+    3  man pthread_create()
+    4  man pthread
+    5  man ls
+    6  git init
+    7  vi nil.txt
+    8  cd nil
+    9  mkdir nil
+   10  cd nil
+   11  mkdir father
+   12  mkdir mother
+   13  mkdir father/so
+   14  mkdir mother/daughter
+   15  touch father/son/my.txt
+   16  touch mother/daughter/my.txt
+   17  cd father/son/
+   18  ls
+   19  vi my.txt
+   20  cat my.txt
+   21  head my.txt 
+   22  tail my.txt 
+   23  tail my.txt -2
+   24  man tail
+   25  man tail -n 2
+   26  tail my.txt -n 2
+   27  cd Desktop
+   28  cd ..
+   29  cd //
+   30  ls
+   31  cd Desktop
+   32  cd home
+   33  ls
+   34  cd nil
+   35  ls
+   36  cd Desktop
+   37  cd nil
+   38  ls
+   39  mv /root/nil 
+   40  mv /root/nil /home/nil/Desktop/
+   41  ls
+   42  cd nil
+   43  tree
+   44  apt install tree
+   45  clear
+   46  cd/
+   47  cd//
+   48  cd //
+   49  ls
+   50  cd log
+   51  cd user
+   52  cd usr
+   53  ls
+   54  cd ..
+   55  cd sys
+   56  ls
+   57  cd ..
+   58  cd /var/log
+   59  tail -f syslog 
+   60  ls
+   61  ls /bott
+   62  ls /boot/
+   63  ls /bin/
+   64  ls /sbin/
+   65  ls /home/
+   66  apt upgrade
+   67  cd //
+   68  cd proc
+   69  ls
+   70  ls -ltr
+   71  killall VBoxClient
+   72  VboxClient-all
+   73  nilesh23
+   74  rm /var/lib/apt/lists/lock 
+   75  rm /var/cache/apt/archives/lock 
+   76  sudo rm /var/lib/dpkg/lock
+   77  sudo apt install build-essential gcc make perl dkms
+   78  init 6
+   79  apt install build-essential gcc make perl dkms
+   80  ps aux 
+   81  ps aux | grep apt
+   82  init 6
+   83  adduser test1
+   84  su test1
+   85  cd nil
+   86  ls
+   87  vi nil.txt 
+   88  cleare
+   89  clear
+   90  ps -ef
+   91  man ps
+   92  ps -eJH
+   93  man ps
+   94  ps -ejH
+   95  apt install tree
+   96  ps -aux | grep vi
+   97  man ps
+   98  ps 
+   99  ps -aux
+  100  man ps
+  101  man -a | grep firefox
+  102  ps -a | grep firefox
+  103  apt install vagrant
+  104  apt install openssh-server
+  105  service start openssh
+  106  service start ssh
+  107  service ssh start
+  108  cd /etc/ssh/sshd_config 
+  109  gedit /etc/ssh/sshd_config 
+  110  ifconfig
+  111  apt install net-tools
+  112  ssh 172.22.118.159
+  113  ssh soe5421@172.22.118.159
+  114  apt install openssh-server
+  115  cd /etc/ssh/sshd_config 
+  116  gedit /etc/ssh/sshd_config 
+  117  htop
+  118  apt install htop
+  119  htop
+  120  pkill firefox
+  121  ptree
+  122  apt install adacontrol
+  123  init 0
+  124  ls
+  125  history > nil.txt
